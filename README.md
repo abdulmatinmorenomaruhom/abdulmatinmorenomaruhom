@@ -4,7 +4,7 @@
 
 I enjoy being challenged and engaging with projects that requires me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of any organization that will be able to use my full capabilities.
 
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend/backend developer from Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
